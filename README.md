@@ -1,16 +1,12 @@
 # Sobre mim
 
-# editando meu perfil
+# *editando meu perfil*
 
 ###### teste
 
--    Ola ,eu sou @Gabrielandrad3
-- 👀 Eu sou interresado ...
+-    **Ola ,eu sou @Gabrielandrad3**
+- 👀 Eu sou interresado em programar novas liguagens 
 - 🌱 Atualmente estou aprendendo ...
-- 💞️ estou Procurando colaborar ...
+- 💞️ estou recentemente apredendo a programar na liguagens de java script e scratch
 - 📫 Como chegar até mim ...
 
-<!---
-Gabrielandrad3/Gabrielandrad3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
