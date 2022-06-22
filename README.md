@@ -5,8 +5,8 @@
 ###### teste
 
 -    **Ola ,eu sou @Gabrielandrad3**
-- 👀 Eu sou interresado em programar novas liguagens 
-- 🌱 Atualmente estou aprendendo ...
-- 💞️ estou recentemente apredendo a programar na liguagens de java script e scratch
+- 👀 Estou interresado em apreder novas liguagens de programaçao
+- 🌱-estou recentemente apredendo a programar na liguagens de java script e scratch
+- 💞️ estou procurando colaborar 
 - 📫 Como chegar até mim ...
 
